@@ -1,0 +1,33 @@
+header {
+  background-color: lightblue;
+  margin: 0;
+  padding: 20px;
+}
+
+.countyInfo {
+  background-color: lightgray;
+}
+
+.countryList {
+  margin: 10px;
+  width: 250px;
+  height: 100vh;
+  overflow-y: scroll;
+}
+
+.countryDiv {
+  border-width: 2px;
+  border-color: gray;
+}
+
+.flex-container {
+  display: flex;
+}
+
+.countryLink p {
+  margin: 20px;
+}
+
+.countryLink {
+  text-decoration: none;
+}
